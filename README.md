@@ -12,7 +12,7 @@ I build and maintain CMS-based web applications, and I've recently branched into
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend**
 
@@ -50,7 +50,7 @@ I build and maintain CMS-based web applications, and I've recently branched into
 
 ---
 
-## 💼 Experience
+##  Experience
 
 **Software Developer** — Himadi Solutions Pvt Ltd, New Delhi *(June 2025 – Present)*
 - Developed and maintained internal software such as an Employee Verification System using Drupal, with a focus on scalability, performance, and security
@@ -80,7 +80,7 @@ A responsive, multi-page website for a packaged drinking water delivery business
 
 **Result:** Live, production-deployed site with 7 fully responsive pages
 
-🔗 [Repo](https://github.com/CheenaJain03/AquaDrop-Water-Delivery-Services) · 🚀 [Live App](https://aquadrop-water-delivery-services.netlify.app/)
+🔗 [Repo](https://github.com/CheenaJain03/AquaDrop-Water-Delivery-Services) ·  [Live Site](https://aquadrop-water-delivery-services.netlify.app/)
 
 ---
 
@@ -94,7 +94,7 @@ Short paragraph on what the app does and who it's for.
 
 **Result:** fill in what it achieved (e.g. published on Play Store, X downloads, etc.)
 
-🔗 [Repo](#) · 🚀 [Live App](#)
+🔗 [Repo](#) ·  [Live App](#)
 
 ---
 
