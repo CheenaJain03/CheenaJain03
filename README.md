@@ -70,11 +70,9 @@ I build and maintain CMS-based web applications, and I've recently branched into
 
 ## 📌 Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [AquaDrop – Water Delivery Services](https://aquadrop-water-delivery-services.netlify.app/) | Responsive multi-page website for a packaged drinking water delivery business — services, products, pricing, dealer enquiries and contact. [Repo](https://github.com/CheenaJain03/AquaDrop-Water-Delivery-Services) | React, Vite, Tailwind CSS |
-| [App Name](#) | Cross-platform mobile app — add a one-line description | Flutter, Dart |
-| [Project Name](#) | Short one-line description | Drupal / WordPress |
+| Project | Live | Repo | Tech |
+|---|---|---|---|
+| **AquaDrop – Water Delivery Services** — responsive multi-page site for a packaged drinking water delivery business (services, products, pricing, dealer enquiries, contact) | [Live Site](https://aquadrop-water-delivery-services.netlify.app/) | [Repo](https://github.com/CheenaJain03/AquaDrop-Water-Delivery-Services) | React, Vite, Tailwind CSS |
 
 ---
 
@@ -83,13 +81,6 @@ I build and maintain CMS-based web applications, and I've recently branched into
 - **B.Tech, Computer Science & Engineering** — Maharshi Dayanand University, Rohtak *(2018 – 2022)*
 - **Senior Secondary (XII)** — Kendriya Vidyalaya, Vikaspuri, New Delhi *(2017 – 2018)*
 - **Matriculation (X)** — Kendriya Vidyalaya, Vikaspuri, New Delhi *(2015 – 2016)*
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CheenaJain03&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CheenaJain03&layout=compact)
 
 ---
 
