@@ -72,8 +72,8 @@ I build and maintain CMS-based web applications, and I've recently branched into
 
 | Project | Description | Tech |
 |---|---|---|
+| [AquaDrop – Water Delivery Services](https://aquadrop-water-delivery-services.netlify.app/) | Responsive multi-page website for a packaged drinking water delivery business — services, products, pricing, dealer enquiries and contact. [Repo](https://github.com/CheenaJain03/AquaDrop-Water-Delivery-Services) | React, Vite, Tailwind CSS |
 | [App Name](#) | Cross-platform mobile app — add a one-line description | Flutter, Dart |
-| [Project Name](#) | Short one-line description | PHP, MySQL |
 | [Project Name](#) | Short one-line description | Drupal / WordPress |
 
 ---
@@ -88,8 +88,8 @@ I build and maintain CMS-based web applications, and I've recently branched into
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CheenaJain03&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CheenaJain03&layout=compact)
 
 ---
 
