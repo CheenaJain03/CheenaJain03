@@ -70,9 +70,31 @@ I build and maintain CMS-based web applications, and I've recently branched into
 
 ## 📌 Projects
 
-| Project | Live | Repo | Tech |
-|---|---|---|---|
-| **AquaDrop – Water Delivery Services** — responsive multi-page site for a packaged drinking water delivery business (services, products, pricing, dealer enquiries, contact) | [Live Site](https://aquadrop-water-delivery-services.netlify.app/) | [Repo](https://github.com/CheenaJain03/AquaDrop-Water-Delivery-Services) | React, Vite, Tailwind CSS |
+### 🌐 Web Development
+
+#### 💧 AquaDrop — Water Delivery Services
+
+![React](https://img.shields.io/badge/-React-lightgrey?style=flat-square) ![Vite](https://img.shields.io/badge/-Vite-lightgrey?style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-lightgrey?style=flat-square)
+
+A responsive, multi-page website for a packaged drinking water delivery business — covering services, products, pricing, dealer enquiries, and contact. Built and deployed end-to-end, from routing to production hosting.
+
+**Result:** Live, production-deployed site with 7 fully responsive pages
+
+🔗 [Repo](https://github.com/CheenaJain03/AquaDrop-Water-Delivery-Services) · 🚀 [Live App](https://aquadrop-water-delivery-services.netlify.app/)
+
+---
+
+### 📱 Mobile Development
+
+#### App Name — one-line description
+
+![Flutter](https://img.shields.io/badge/-Flutter-lightgrey?style=flat-square) ![Dart](https://img.shields.io/badge/-Dart-lightgrey?style=flat-square)
+
+Short paragraph on what the app does and who it's for.
+
+**Result:** fill in what it achieved (e.g. published on Play Store, X downloads, etc.)
+
+🔗 [Repo](#) · 🚀 [Live App](#)
 
 ---
 
