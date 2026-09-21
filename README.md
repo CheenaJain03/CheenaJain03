@@ -1,13 +1,14 @@
-# Hi there 👋
+# Hi, I'm China Jain 👋
 
-**Aspiring Software Developer | Drupal & WordPress | PHP · MySQL · React**
+**Software Developer | Drupal & WordPress | PHP · MySQL · React · Flutter**
 
-I build and customize CMS-based websites, and I'm always picking up something new along the way. Currently focused on strengthening my backend skills and building projects with React.
+I build and maintain CMS-based web applications, and I've recently branched into cross-platform mobile development with Flutter. Currently working as a Software Developer at Himadi Solutions Pvt Ltd, New Delhi.
 
-- 🔭 Working on Drupal and WordPress based web development
-- 🌱 Currently learning React and improving my Java
-- 💡 Interested in CMS customization, web performance, and clean frontend design
-- 📫 Reach me at: **your.email@example.com**
+- 🔭 Building internal tools with **Drupal** and managing company sites on **WordPress**
+- 📱 Built a mobile app using **Flutter & Dart**
+- 🌱 Currently learning **React** and improving my **Java**
+- 🎓 B.Tech in Computer Science — Maharshi Dayanand University, Rohtak
+- 📫 Reach me at **chinajain3520@gmail.com**
 
 ---
 
@@ -21,6 +22,11 @@ I build and customize CMS-based websites, and I'm always picking up something ne
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 **Backend & Database**
 
@@ -44,22 +50,39 @@ I build and customize CMS-based websites, and I'm always picking up something ne
 
 ---
 
-## 💼 What I Do
+## 💼 Experience
 
-- Customize and extend **Drupal** and **WordPress** sites — themes, plugins/modules, and content structures
-- Build responsive interfaces with **HTML, CSS, Bootstrap, Tailwind, and React**
-- Write server-side logic in **PHP** and work with **MySQL** databases
-- Manage and maintain live websites, with a focus on **performance optimization**
+**Software Developer** — Himadi Solutions Pvt Ltd, New Delhi *(June 2025 – Present)*
+- Developed and maintained internal software such as an Employee Verification System using Drupal, with a focus on scalability, performance, and security
+- Managed and updated the company's WordPress website, adding features and plugins to support business and marketing goals
+- Customized Drupal modules and WordPress themes to match branding and functionality requirements
+- Ran regular site audits and performance optimizations to keep both platforms fast and highly available
+
+**Consultant** — Riya Travel & Tours (India) Pvt Ltd, New Delhi *(Oct 2022 – Nov 2024)*
+- Handled US visa applications (H1B, H4, B1/B2) for a corporate client, coordinating directly with employees through the process
+- Reviewed applications, processed visa fee payments, created PNRs for invoicing, and booked appointments
+
+**Intern** — IRCTC, New Delhi *(Aug 2021 – Aug 2022)*
+- Prepared daily, fortnightly, and monthly reports
+- Performed manual testing of the PMF system (CRPF, NDRF, BSF, CISF, AR) and analyzed force-wise data
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| [Project Name](#) | Short one-line description of what it does | PHP, MySQL |
-| [Project Name](#) | Short one-line description of what it does | React, Tailwind |
-| [Project Name](#) | Short one-line description of what it does | WordPress |
+| [App Name](#) | Cross-platform mobile app — add a one-line description | Flutter, Dart |
+| [Project Name](#) | Short one-line description | PHP, MySQL |
+| [Project Name](#) | Short one-line description | Drupal / WordPress |
+
+---
+
+## 🎓 Education
+
+- **B.Tech, Computer Science & Engineering** — Maharshi Dayanand University, Rohtak *(2018 – 2022)*
+- **Senior Secondary (XII)** — Kendriya Vidyalaya, Vikaspuri, New Delhi *(2017 – 2018)*
+- **Matriculation (X)** — Kendriya Vidyalaya, Vikaspuri, New Delhi *(2015 – 2016)*
 
 ---
 
@@ -73,4 +96,4 @@ I build and customize CMS-based websites, and I'm always picking up something ne
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chinajain3520@gmail.com)
