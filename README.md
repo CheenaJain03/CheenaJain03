@@ -1,4 +1,4 @@
-# Hi, I'm China Jain 👋
+# Hi, I'm Cheena Jain 👋
 
 **Software Developer | Drupal & WordPress | PHP · MySQL · React · Flutter**
 
