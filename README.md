@@ -98,11 +98,9 @@ Short paragraph on what the app does and who it's for.
 
 ---
 
-## 🎓 Education
+## 🎓 Qualification
 
-- **B.Tech, Computer Science & Engineering** — Maharshi Dayanand University, Rohtak *(2018 – 2022)*
-- **Senior Secondary (XII)** — Kendriya Vidyalaya, Vikaspuri, New Delhi *(2017 – 2018)*
-- **Matriculation (X)** — Kendriya Vidyalaya, Vikaspuri, New Delhi *(2015 – 2016)*
+- **B.Tech, Computer Science & Engineering** - Completed
 
 ---
 
